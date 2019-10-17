@@ -6,4 +6,8 @@ printf("The last test from gitHub");
 printf("The last update from GITKraken");
 printf("Hello from GITKraken");
 //change in develop branch
+<<<<<<< HEAD
 //some other change
+=======
+//gitHub and gitKraken in the same time
+>>>>>>> master
