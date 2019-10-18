@@ -8,6 +8,6 @@ printf("Hello from GITKraken");
 //change in develop branch
 <<<<<<< HEAD
 //some other change
-=======
-//gitHub and gitKraken in the same time
->>>>>>> master
+//branch change
+//konflikt kraken
+//konflikt1
